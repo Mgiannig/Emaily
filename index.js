@@ -24,11 +24,4 @@ require("./routes/authRoutes")(app);
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT);
-
-//http://localhost:5000/auth/google/callback
-
-
-// mongodb+srv://mgianni91:JEANEJyljKTUnsGFlw80@cluster0-aknht.mongodb.net/test?retryWrites=true&w=majority
-
-//id: 788906632631-k43u3uin78loafb46ptc27bl6d0u3knb.apps.googleusercontent.com
-//secret: 6_4XX2Qb50IiHTLOYJT0j0_N
+//git push heroku master
