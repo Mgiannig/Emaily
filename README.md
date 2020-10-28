@@ -11,3 +11,6 @@ To add credits in the stripe form, just type:
 Credit card number: 4242 4242 4242 4242
 Expiration date: any date in the future with the format MM/YY
 CVC: any 3-digits number
+
+
+This is a work in progress, currently implementing the dashboard.
